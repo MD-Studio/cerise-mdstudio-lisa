@@ -1,8 +1,9 @@
 # Cerise specialisation for MDStudio and LISA (SURFSARA)
 
 This repository contains a Cerise specialisation for MDStudio and Lisa(Surfsara).
-
 It's work in progress.
+
+For more information about Lisa see the [surfsara page](https://userinfo.surfsara.nl/systems/lisa).
 
 ## Running
 
