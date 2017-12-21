@@ -1,0 +1,13 @@
+compute-resource:
+  refresh: 10
+  files:
+    protocol: sftp
+    location: lisa.surfsara.nl
+    path: /home/$CERISE_USERNAME/.cerise
+
+  jobs:
+    protocol: ssh
+    location: lisa.surfsara.nl
+    scheduler: torque
+    cwl-runner: $CERISE_API_FILES/cerise/cwltiny.py
+    slots-per-node: 4
