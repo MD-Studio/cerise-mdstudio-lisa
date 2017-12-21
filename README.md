@@ -36,22 +36,6 @@ means that the username and password are stored on disk. If we start the service
 from Python using docker-py, then the environment variables would probably be
 the better option.
 
-### Run a job
-
-Now we can submit an example Gromit/GROMACS job, using a virtual environment to
-keep the dependencies away from the rest of the system:
-
-```bash
-cd examples/
-virtualenv -p python3 venv
-. venv/bin/activate
-pip3 install bravado
-python3 run_md.py
-```
-
-This will take about 2 minutes to complete.
-
-
 ## Legal Notes
 
 ### gromit
