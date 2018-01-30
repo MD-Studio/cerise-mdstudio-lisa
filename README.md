@@ -38,18 +38,9 @@ the better option.
 
 ## Legal Notes
 
-### gromit
+This repository is covered by the following license grant:
 
-This repository contains a modified copy of gromit.sh from
-[gromit](https://github.com/Tsjerk/gromit) in
-api/files/mdstudio/gromit/gromit_mpi.sh. Gromit is licensed under the GNU
-General Public License version 2.0 (see the file LICENSE_GROMIT).
-
-### Other files
-
-The rest of this repository is covered by the following license grant:
-
-   Copyright 2017 Netherlands eScience Center and VU University Amsterdam
+   Copyright 2018 Netherlands eScience Center and VU University Amsterdam
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
