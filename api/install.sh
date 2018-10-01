@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 CERISE_API_FILES="${1}"
