@@ -8,7 +8,7 @@ compute-resource:
   jobs:
     protocol: ssh
     location: lisa.surfsara.nl
-    scheduler: torque
+    scheduler: slurm
     cwl-runner: $CERISE_API_FILES/cerise/cwltiny.py
     slots-per-node: 4
     queue-name: batch
