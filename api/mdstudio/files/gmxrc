@@ -1,0 +1,2 @@
+# Environmental variables
+GMXRC_MDSTUDIO="$CERISE_PROJECT_FILES/gromacs/bin/GMXRC.bash"

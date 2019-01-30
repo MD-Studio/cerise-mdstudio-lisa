@@ -1,8 +1,0 @@
-# Load modules
-
-module load intel-studio
-module load gromacs/2016.2
-
-
-# Environmental variables
-GMXRC_MDSTUDIO="/sara/sw/gromacs-2016.2-sp/bin/GMXRC.bash"
